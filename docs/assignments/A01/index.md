@@ -36,7 +36,7 @@ M=FD
 (M) = moment
 (F) = force, weight of the door
 (d) = perpendicular distance from the hinge axis to the force
-The hinge must support the door's weight while also allowing the door to rotate .
+The hinge must support the door's weight while also allowing the door to rotate.
 
 Assumption - The hinge and door can be treated as solid objects. This means small deformations will not affect the motion of the door.
 ## Decide
@@ -47,4 +47,14 @@ Intentional Customization - I changed the color scheme because I wanted the site
 Documentation Standard - For each assignment, I will explain my assumptions, show my analysis, justify my decisions, and provide enough information so someone can come along and understand aswell as replicate my work.
 
 ## Communicate
+About Me
 
+Brodie Jarvis
+
+I am a mechanical engineering student interested in the process behind succesful projects, how they can be improved, and how engineering can be used to make the world a better place. My interest in engineering started at a young age through my fascination with cars, toy trains, and building blocks like LEGO. Engineering has also been an important part of my family. My grandfather was an engineer at Lockheed Martin, he taught me to approach soemthing as an engineer in comparison to a consumer, breaking down projects into parts, and looking for practical solutions. My mother works in analytics at Wells Fargo, so mathematics and analytical thinking have also been a strong influence through other parts of my family. I am specifically interested in automotive engineering and plan to pursue a career in automotive design. On the other hand, I have always had a strong interest in environmental studies and strive to connect mechanical engineering with solving environmental problems. I am particularly interested in systems involving water, aquifers, and other technologies that could improve how non-renweable resources are used. As I continue my education, I want to develop strong skills in mechanical design, analysis, CAD systems, and problem solving. My goal is to become an engineer who can combine technical knowledge with a strong sense of creativity to develop practical solutions that improve people's lives and have a positive impact on the world.
+
+What does it mean to defend an engineering decision — and do you currently know how to do it?
+
+To defend an engineering decision means being able to clearly prove why a particular solution was accomplished using engineering principles, evidence, calculations, requirements, and logical assumptions. I understand the importance of doing so, However, I can't consistently defend engineering decisions at a professional level as a undergraduate student. I am still learning how to identify the correct model, compare alternative solutions, and use evidence to support my choices. My goal this semester is to develop these skills so that I can make decisions based on engineering reasoning rather than simply choosing what seems like the best option.
+
+I spent approximately 6.5 hours working on this assignment.
