@@ -16,13 +16,13 @@ Professional tone - The writing is appropriate for an engineering student. Main 
 
 Portfolio 2 - Ahmet Hamza Mülayim
 
-Navigability: Projects are organized precisly so identification for different types of engineering work is efficient.
+Navigability - Projects are organized precisly so identification for different types of engineering work is efficient.
 
-Reproducibility: Project descriptions are insightful and have detailed statistics. There is plentiful data including graphs and images.
+Reproducibility - Project descriptions are insightful and have detailed statistics. There is plentiful data including graphs and images.
 
-Evidence of reasoning: The portfolio shows engineering processes with each project while also making accesibility very efficient.
+Evidence of reasoning - The portfolio shows engineering processes with each project while also making accesibility very efficient.
 
-Professional tone: The language is technical and appropriate for an engineering portfolio aswell as proper data layouts.
+Professional tone - The language is technical and appropriate for an engineering portfolio aswell as proper data layouts.
 
 Task B — Product Analysis
 Product - Residential Door Hinge
