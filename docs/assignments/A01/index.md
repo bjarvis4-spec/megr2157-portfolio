@@ -39,6 +39,38 @@ M=FD
 The hinge must support the door's weight while also allowing the door to rotate.
 
 Assumption - The hinge and door can be treated as solid objects. This means small deformations will not affect the motion of the door.
+
+Task C - Photographs
+Component 1 — Door Leaf
+
+<img width="488" height="663" alt="image" src="https://github.com/user-attachments/assets/9e005ce3-42a8-429e-ba7d-928aa3249a82" />
+
+The door leaf is the flat portion of the hinge attached to the door. The screw holes allow it to be securely fastened to the door. Its flat geometry distributes the forces from the door into the hinge and keeps the hinge aligned with the door.
+
+Component 2 — Knuckle
+
+<img width="488" height="642" alt="image" src="https://github.com/user-attachments/assets/c9bcea48-f1ef-470f-91d8-7376f8940db9" />
+
+The knuckle is the cylindrical section where the hinge pin passes through. Its circular geometry allows the door leaf to rotate around the hinge pin while maintaining a fixed axis of rotation. The knuckle also helps keep the hinge leaves aligned during repeated opening and closing.
+
+Component 3 — Hinge Pin
+
+<img width="421" height="632" alt="image" src="https://github.com/user-attachments/assets/b8e610fe-55bb-4f1b-99b1-68bc403d6d16" />
+
+The hinge pin passes through the knuckles and provides the hinge's rotational axis. Its cylindrical shape allows the connected hinge sections to rotate around it while keeping them aligned. The pin also carries forces between the hinge leaves while allowing the door to rotate.
+
+Task D - Patent Research and Design Alternatives
+
+A relevant patent for a door hinge is U.S. Patent No. 2,745,130, "Hinge," by Frank A. Mitchell. The patent shows a hinge using leaves, knuckles, and a hinge pin to allow one part to rotate in relation to the other.
+
+Alternative Solutions
+
+Two alternative devices that perform the same primary function are - 
+Pivot hinge - Uses pivot points,at the top and bottom of the door, to support the door and allows it to rotate.
+Continuous hinge - Runs along the height of the door, spreading the door's weight and force over a larger surface area.
+
+Design Decision - One important design decision in a standard door hinge is the use of multiple knuckles around a single cylindrical hinge pin. This arrangement keeps the hinge leaves aligned while allowing them to rotate around one fixed axis. I believe this design was chosen because it provides a simple and durable way to support the door while allowing repeated opening and closing. The cylindrical pin also makes the hinge easy to assemble and maintain while keeping the rotational motion predictable.
+
 ## Decide
 Homepage Identity - This portfolio displays my progression as a mechanical engineering student. It is organized so that instructors, classmates, and future employers can find my assignments and understand my work and reasoning behind my projects. Each assignment will show the problem, analysis, decisions, and results instead of only covering the final destination.
 
