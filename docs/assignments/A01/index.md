@@ -5,6 +5,7 @@
 
 ## Analyze
 Task A - Portfolio Analysis
+
 Portfolio 1 - Aiden Bradley
 Navigability - Aiden's Page is hosted by Github, The main page shows info regarding interest and personal projects. Also, covers a little on portfolio projects. 
 
