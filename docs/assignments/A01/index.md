@@ -43,6 +43,7 @@ The hinge must support the door's weight while also allowing the door to rotate.
 Assumption - The hinge and door can be treated as solid objects. This means small deformations will not affect the motion of the door.
 
 Task C - Photographs
+
 Component 1 — Door Leaf
 
 <img width="488" height="663" alt="image" src="https://github.com/user-attachments/assets/9e005ce3-42a8-429e-ba7d-928aa3249a82" />
@@ -67,7 +68,6 @@ A relevant patent for a door hinge is U.S. Patent No. 2,745,130, "Hinge," by Fra
 
 Alternative Solutions
 
-Two alternative devices that perform the same primary function are - 
 Pivot hinge - Uses pivot points,at the top and bottom of the door, to support the door and allows it to rotate.
 Continuous hinge - Runs along the height of the door, spreading the door's weight and force over a larger surface area.
 
