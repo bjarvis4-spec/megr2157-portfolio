@@ -100,7 +100,7 @@ At the joints, I made sure the members merged into one continuous solid while ma
 After some adjustments, I centered each pin hole at the location where the centerlines intersected. At joints where multiple members met, I used one common pin location rather than separate pin holes for each member. The final pins were modeled as cylinders with the revised 11 mm diameter. This was changed from the original 15 mm so that the pin could be at the centerlines while still having a large enough diameter. This was also changed to avoid the material surrounding the pin holes being too thin.
 <img width="1173" height="492" alt="image" src="https://github.com/user-attachments/assets/269dc5f7-3849-46a4-b0d9-d6cc3bd23c89" />
 
-Once I finished the sketch for the extrude I amde it 22mm thick to satisy the calculations made in the design process.
+Once I finished the sketch for the extrude I made it 22mm thick to satisy the calculations made in the design process.
 <img width="1386" height="597" alt="image" src="https://github.com/user-attachments/assets/8716d686-2925-4a45-98dc-e8148694a382" />
 
 Then, I filled in the pin holes with a second extrude made up of 4 pins. 
@@ -110,6 +110,7 @@ Then, I filled in the pin holes with a second extrude made up of 4 pins.
 A500 structural steel was not available in my Creo material library. I then instead used Creo's generic STEEL material, which had a density of approximately 7827 kg/m³. This was the material with the most similair qualities. After assinging the steel mataerial, I then realized my units were incorrect from running an analysis. After correcting the units , I ran another the Creo Mass Properties analysis. Creo predicted a final truss mass of around 12.44 kg. Converting this value to weight gave me 122.0 N.
 <img width="857" height="397" alt="image" src="https://github.com/user-attachments/assets/da2d07f5-a006-478c-92f3-ba8e19e693c6" />
 <img width="420" height="462" alt="image" src="https://github.com/user-attachments/assets/c22a893f-cd14-438b-89a5-7d0e752391e0" />
+
 The 22 mm × 22 mm member size produced a safety factor of approximately 3.52, which is only slightly above the required 3.5 and therefore avoids excessive material. I also had reduced the pin diameter to 11 mm, which also decreased overall weight.
 
 
