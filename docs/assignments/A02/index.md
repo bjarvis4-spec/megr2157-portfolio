@@ -11,7 +11,7 @@
  - Compare CAD weight predictions with hand calculations.
  - Document key engineering lessons learned from the process.
 
-## Analyze
+## Decide
 OVERALL TRUSS GEOMETRY
 
 I started with listing out the requirements, loading conditions, support types, material requirements, and safety factors before making any design decisions. The  dimensions provided were a = 0.4 m and b = 0.3 m, with point A being a pin support and B being a roller support. I selected P = 25 kN, Because it was a solid middle ground between the 20-30 range provided.
@@ -44,7 +44,7 @@ After finding the support reactions, I analyzed the internal forces using the Me
 <img width="1197" height="430" alt="image" src="https://github.com/user-attachments/assets/d53c4c0e-1235-4fac-b5e9-7b6eb860e245" />
 After completing the Method of Joints, I compared all of the internal member forces. Member CA had the largest force magnitude with approximately 47.47 kN in compression.
 
-## Decide
+## Analyze
 TRUSS CROSS-SECTIONAL AREA
 
 First, I listed all given, known, and unknown values.
