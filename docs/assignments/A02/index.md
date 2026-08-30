@@ -107,10 +107,17 @@ Then, I filled in the pin holes with a second extrude made up of 4 pins.
 <img width="1112" height="655" alt="image" src="https://github.com/user-attachments/assets/61b01ccc-51f8-48d0-9499-721b175b8865" />
 <img width="1057" height="438" alt="image" src="https://github.com/user-attachments/assets/f3274f12-00ab-4dfa-8a0b-2425789cd231" />
 
-A500 structural steel was not available in my Creo material library. I then instead used Creo's generic STEEL material, which had a density of approximately 7827 kg/m³. This was the material with the most similair qualities. After correcting the units and assigning the steel material, I ran the Creo Mass Properties analysis. Creo predicted a final truss mass of around 12.44 kg. Converting this value to weight gave me 122.0 N.
+A500 structural steel was not available in my Creo material library. I then instead used Creo's generic STEEL material, which had a density of approximately 7827 kg/m³. This was the material with the most similair qualities. After assinging the steel mataerial, I then realized my units were incorrect from running an analysis. After correcting the units , I ran another the Creo Mass Properties analysis. Creo predicted a final truss mass of around 12.44 kg. Converting this value to weight gave me 122.0 N.
 <img width="857" height="397" alt="image" src="https://github.com/user-attachments/assets/da2d07f5-a006-478c-92f3-ba8e19e693c6" />
 <img width="420" height="462" alt="image" src="https://github.com/user-attachments/assets/c22a893f-cd14-438b-89a5-7d0e752391e0" />
 The 22 mm × 22 mm member size produced a safety factor of approximately 3.52, which is only slightly above the required 3.5 and therefore avoids excessive material. I also had reduced the pin diameter to 11 mm, which also decreased overall weight.
 
-## Communicate
 
+## Communicate
+ENGINEERING LESSONS LEARNED
+
+One of the main engineering lessons I learned from this project was how to design a structural member using the internal force, material yield strength, and required safety factor. After spending a couple hours researching truss structures I got an ideo of how they operate but starting from scratch was far from simple. Going through with the trial and error approach I was taught to use as an engineering student did help me become more critical and thorough with my descisions. I already had experience using statics and equilibrium equations, but this project helped me apply those skills to an actual structural design. I learned how internal member forces, material yield strength, and safety factor are used together to determine the required size of a truss member rather than only solving for forces.
+
+I also became more comfortable using Creo Solid Modeling to turn my calculations into a 3D design. I improved at creating and dimensioning sketches, extruding geometry, making pin joints, assigning materials, and using mass properties. Comparing the CAD results with my hand calculations also showed me how important it is to check that the dimensions and units in a model are correct and align with eachother.
+
+Overall, I spent around 15 hours on this project. 
