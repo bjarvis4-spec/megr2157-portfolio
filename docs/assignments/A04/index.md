@@ -106,3 +106,27 @@ During the assignment, I made a few mistakes that I corrected as I worked. In my
 Actual Time: 9 hrs
 
 CAD Download Link: https://drive.google.com/file/d/1lNJxbY5zvmMehi_i_ix9Rhbq3UfN7BDM/view?usp=sharing
+
+APPENDIX
+
+Material Source
+
+PETG Material Properties – MatWeb
+
+I used the PETG source provided in the assignment for the material properties used in my calculations. The values I used were an elastic modulus of 3.03 GPa and a yield strength of 51.4 MPa.
+
+[MatWeb PETG Material Properties](https://www.matweb.com/search/datasheettext.aspx?matguid=4de1c85bb946406a86c52b688e3810d0&utm_)
+
+Motor Mount Research
+
+Pololu 25D Gearmotor Bracket
+
+I used this as a reference for how a compact gearmotor can be mounted using multiple fastener locations around the motor. The bracket also shows a simple design that keeps the motor supported without making the mount overly large.
+
+[Pololu 25D Gearmotor Bracket](https://www.pololu.com/product/2676?utm_)
+
+Adafruit L-Bracket Motor Mount
+
+I used this as a reference for the basic L-shaped bracket layout. It shows how one surface can support the motor while the other surface attaches the bracket to another structure.
+
+[Adafruit L-Bracket Motor Mount](https://www.adafruit.com/product/3768?utm_)
