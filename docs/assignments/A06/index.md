@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – [BRACKET DRAWING]
 
 ## Objective
 
