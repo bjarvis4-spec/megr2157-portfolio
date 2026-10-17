@@ -275,7 +275,7 @@ I evaluated three bracket geometries with multiple static FEA simulations. The o
 
 Although the final design showed substantial improvement in displacement and a small weight reduction, the stress sensitivity and low estimated safety factor indicate that further geometry modification and model validation would be required.
 
-**CAD file download:** _Add the GitHub link to your `.SLDPRT` file here before submission._
+**CAD file download:** (https://drive.google.com/file/d/1yt4yYzLLKibAMbxgACzCwTrrfqud2SyW/view?usp=sharing)
 
 ### Calculation and Source Notes
 
@@ -284,4 +284,3 @@ Although the final design showed substantial improvement in displacement and a s
 - Percent difference is computed as `ABS(finer - coarser) / ABS(finer) * 100%`; comparisons of mesh pairs do not by themselves guarantee a converged solution, especially when further refinement reverses the trend.
 - `*` The Test 8 mesh-element digits are difficult to read in the photographed Mesh Details window; confirm the exact count from [image 48](https://i.postimg.cc/BP4LWH7Y/p48.jpg) if precision is required.
 
-*Screenshot links are hosted externally on Postimages and do not require image uploads to the GitHub repository.*
